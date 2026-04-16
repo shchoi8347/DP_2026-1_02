@@ -3,7 +3,7 @@ package practice.ch01;
 public class Book {
     private String name;
 
-    public Book(String name) {
+    public Book(String j) {
         this.name = name;
     }
 
